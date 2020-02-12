@@ -6,7 +6,7 @@ While working on any data science assignments or projects you must have surely n
 
 So in order to focus more on the algorithms we need a faster way to finish the data cleaning activities. This is where my "All in One Data Cleaning App" would come in handy.
 
-(/Allinonedatacleaningapp/all_in_one_data_cleaning_app.JPG)
+Allinonedatacleaningapp/all_in_one_data_cleaning_app.JPG
 
 What's so special in this app?
 
