@@ -6,6 +6,8 @@ While working on any data science assignments or projects you must have surely n
 
 So in order to focus more on the algorithms we need a faster way to finish the data cleaning activities. This is where my "All in One Data Cleaning App" would come in handy.
 
+(/Allinonedatacleaningapp/all_in_one_data_cleaning_app.JPG)
+
 What's so special in this app?
 
 Well, there are so many things this app can do. The main purpose of this app is to automate the data cleaning process. Below are the data cleaning functionalities which the app can perform - 
