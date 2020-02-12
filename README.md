@@ -1,5 +1,4 @@
-# Allinonedatacleaningapp
-All in One Data Cleaning App
+# ALL IN ONE DATA CLEANING APP
 
 Every now and then you must have heard that most of the data scientists spend 60-70% of their time in data cleaning.  76% of data scientists view data preparation as the least enjoyable part of their work.
 
